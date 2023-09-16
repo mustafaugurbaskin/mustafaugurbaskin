@@ -19,7 +19,7 @@ My LinkedIn Account:
 </img>
 </a>
 
-<br><br>
+<br>
 
 My Twitter Account:
 <br>
