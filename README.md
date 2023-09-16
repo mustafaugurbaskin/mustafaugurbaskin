@@ -1,8 +1,8 @@
 # Welcome to my GitHub account
 
-👋 Hi!, I'm Mustafa Uğur Baskın. A 20 years old Full Stack Developer based in Turkey. I currently work at CoSearch Team (<a href="https://www.cosearchteam.com">CoSearch website</a>) as Founder & Lead Developer. CoSearch Team is a business contact information software for companies and businesses to allow them to find potential customers' contact information approximately 30x faster than manual searches. I have worked in many Machine Learning and Python projects.
+👋 Hi!, I'm Mustafa Uğur Baskın. A 20 years old Full Stack Developer based in Turkey. I currently work at CoSearch Team (<a href="https://www.cosearchteam.com">CoSearch website</a>) as Founder & Lead Developer. CoSearch is a business contact information software for companies and businesses to allow them to find potential customers' contact information approximately 30x faster than manual searches. I have worked in many Machine Learning and Python projects.
 
-I previously worked on:
+👨‍💻 I previously worked on:
 - FornaxAI, an AI powered lane assist & self driving assistant.
 - Martha AI, a voice assistant using artificial intelligence that I developed myself.
 
