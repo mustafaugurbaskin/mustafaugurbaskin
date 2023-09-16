@@ -17,6 +17,8 @@ For now, I am improving myself on Artificial Intelligence, Machine Learning and 
 </img>
 </a>
 
+<br>
+
 <a href="https://twitter.com/ugurokuduro/">
 <img src="https://img.shields.io/twitter/follow/ugurokuduro?style=social">
 </img>
