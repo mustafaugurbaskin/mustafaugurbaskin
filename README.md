@@ -12,13 +12,17 @@ For now, I am improving myself on Artificial Intelligence, Machine Learning and 
 <html>
 <body>
 
+My LinkedIn Account:
+<br>
 <a href="https://www.linkedin.com/in/mustafaugurbaskin/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </img>
 </a>
 
-<br>
+<br><br>
 
+My Twitter Account:
+<br>
 <a href="https://twitter.com/ugurokuduro/">
 <img src="https://img.shields.io/twitter/follow/ugurokuduro?style=social">
 </img>
