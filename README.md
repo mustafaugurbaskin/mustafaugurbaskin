@@ -12,14 +12,13 @@ For now, I am improving myself on Artificial Intelligence, Machine Learning and 
 <html>
 <body>
 
-<a href="https://www.linkedin.com/in/mustafaugurbaskin">My LinkedIn</a>
-<a href="https://twitter.com/ugurokuduro/">
-<img src="https://img.shields.io/twitter/follow/ugurokuduro?style=social">
+<a href="https://www.linkedin.com/in/mustafaugurbaskin/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </img>
 </a>
 
-<a href="https://www.linkedin.com/in/mustafaugurbaskin/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://twitter.com/ugurokuduro/">
+<img src="https://img.shields.io/twitter/follow/ugurokuduro?style=social">
 </img>
 </a>
 
