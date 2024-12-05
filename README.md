@@ -8,7 +8,7 @@
   As an intern, I developed an **AI model to predict the Mass Attenuation Coefficient (MAC)** values of glass samples for radiation applications. My key contributions included:
   
   - Developing artificial neural networks to significantly reduce processing power and waiting times for MAC predictions.
-  - Co-authoring an **SCIE-indexed academic paper**, titled *“Predicting the Mass Attenuation Coefficient of Glass Systems Using a Machine Learning Approach for Radiation Applications”*, published in the *Journal of Radiation Research and Applied Sciences* in June 2024.
+  - Co-authoring an **SCIE-indexed academic paper**, titled *“Predicting the Mass Attenuation Coefficient of Glass Systems Using a Machine Learning Approach for Radiation Applications”*, published in the *Journal of Radiation Research and Applied Sciences* in June 2024. [See the paper here](https://www.sciencedirect.com/science/article/pii/S1687850724001031).
   - Leading the development of the AI program, conducting technical and data analysis for the study.
   - Organizing and preparing datasets for additional papers in the field of radiation physics.
 
