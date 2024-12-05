@@ -1,12 +1,17 @@
 # Welcome to my GitHub account
 
-👋 Hi!, I'm Mustafa Uğur Baskın. A 20 years old Full Stack Developer based in Turkey. I currently work at CoSearch Team (<a href="https://www.cosearchteam.com">CoSearch website</a>) as Founder & Lead Developer. CoSearch is a business contact information software for companies and businesses to allow them to find potential customers' contact information approximately 30x faster than manual searches. I have worked in many Machine Learning and Python projects.
+👋 Hi! I'm Mustafa Uğur Baskın, a 21-year-old Full Stack Developer and Physics undergraduate based in Turkey. I am proud to be among the <b>first Turkish undergraduates</b> to publish in an <b>international SCIE-indexed journal</b> in Physics while still pursuing my bachelor's degree. 
 
-👨‍💻 I previously worked on:
-- FornaxAI, an AI powered lane assist & self driving assistant.
-- Martha AI, a voice assistant using artificial intelligence that I developed myself.
+<h3>👨‍💻 My Projects</h3>
 
-For now, I am improving myself on Artificial Intelligence, Machine Learning and complex algorithms.
+- <b>CoSearch</b>:
+Developed Python-based software that enables businesses to identify potential customer leads 30x faster than manual methods. Built a complete ecosystem accessible via both a web platform and standalone software, integrating multiple programming languages and technologies. See it [here](https://github.com/mustafaugurbaskin/CoSearch).
+
+- <b>RNet</b>:
+Created an AI-powered autonomous driving system capable of detecting road lane markings from images, videos, or real-time feeds. Trained the AI model using PyTorch on a dataset of over 200,000 images, focusing on accuracy and real-time performance. See it [here](https://github.com/mustafaugurbaskin/RNet).
+
+- <b>SiteSurf</b>:
+Designed and developed custom and template-based websites tailored to various client requirements. Delivered responsive, visually appealing, and user-friendly web applications using modern web technologies.
 
 ## Contact with me
 <html>
