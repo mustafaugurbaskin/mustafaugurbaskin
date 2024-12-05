@@ -2,7 +2,17 @@
 
 👋 Hi! I'm Mustafa Uğur Baskın, a 21-year-old Full Stack Developer and Physics undergraduate based in Turkey. I am proud to be among the <b>first Turkish undergraduates</b> to publish in an <b>international SCIE-indexed journal</b> in Physics while still pursuing my bachelor's degree. 
 
-<h3>👨‍💻 My Projects</h3>
+### 👨‍🏫 Experience
+
+- **Sakarya University**:  
+  As an intern, I developed an **AI model to predict the Mass Attenuation Coefficient (MAC)** values of glass samples for radiation applications. My key contributions included:
+  
+  - Developing artificial neural networks to significantly reduce processing power and waiting times for MAC predictions.
+  - Co-authoring an **SCIE-indexed academic paper**, titled *“Predicting the Mass Attenuation Coefficient of Glass Systems Using a Machine Learning Approach for Radiation Applications”*, published in the *Journal of Radiation Research and Applied Sciences* in June 2024.
+  - Leading the development of the AI program, conducting technical and data analysis for the study.
+  - Organizing and preparing datasets for additional papers in the field of radiation physics.
+
+### 👨‍💻 My Projects
 
 - <b>CoSearch</b>:
 Developed Python-based software that enables businesses to identify potential customer leads 30x faster than manual methods. Built a complete ecosystem accessible via both a web platform and standalone software, integrating multiple programming languages and technologies. See it [here](https://github.com/mustafaugurbaskin/CoSearch).
