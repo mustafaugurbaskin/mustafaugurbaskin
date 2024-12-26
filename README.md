@@ -20,6 +20,9 @@ Developed Python-based software that enables businesses to identify potential cu
 - <b>RNet</b>:
 Created an AI-powered autonomous driving system capable of detecting road lane markings from images, videos, or real-time feeds. Trained the AI model using PyTorch on a dataset of over 200,000 images, focusing on accuracy and real-time performance. See it [here](https://github.com/mustafaugurbaskin/RNet).
 
+- <b>Dormitory Management System</b>:
+A web-based application designed to streamline the management of dormitories, rooms, and student information. This project was developed for the **Ford Hackathon** at Sakarya University, where it won **2nd** place. See it [here](https://github.com/mustafaugurbaskin/dormitory-management-system).
+
 - <b>SiteSurf</b>:
 Designed and developed custom and template-based websites tailored to various client requirements. Delivered responsive, visually appealing, and user-friendly web applications using modern web technologies.
 
