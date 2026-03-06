@@ -16,8 +16,8 @@
   - Prepared datasets, developed and tested machine learning models, and improved training workflows for radiation-physics studies.
 
 ### 📜 Academic Publications
-- Alwadai, N., Al Huwayz, M., Alrowaili, Z. A., **Baskin, M. U.**, Al-Buriahi, M. S. (2024). Predicting the mass attenuation coefficient of glass systems using machine learning approach for radiation applications. Journal of Radiation Research and Applied Sciences, 17(2), 100919. DOI: 10.1016/j.jrras.2024.100919.
-- Al-Buriahi, M. S., Alsaiari, N. S., **Baskin, M. U.**, Olarinoye, I. O. (2025). Recent progress in the radiation shielding performance of common glass systems: The roles of different class of modifiers. Journal of Radiation Research and Applied Scences, 18(1), 101264. DOI: 10.1016/j.jrras.2024.101264.
+- Alwadai, N., Al Huwayz, M., Alrowaili, Z. A., **Baskin, M. U.**, Al-Buriahi, M. S. (2024). Predicting the mass attenuation coefficient of glass systems using machine learning approach for radiation applications. Journal of Radiation Research and Applied Sciences, 17(2), 100919. DOI: [10.1016/j.jrras.2024.100919](10.1016/j.jrras.2024.100919).
+- Al-Buriahi, M. S., Alsaiari, N. S., **Baskin, M. U.**, Olarinoye, I. O. (2025). Recent progress in the radiation shielding performance of common glass systems: The roles of different class of modifiers. Journal of Radiation Research and Applied Scences, 18(1), 101264. DOI: [10.1016/j.jrras.2024.101264](10.1016/j.jrras.2024.101264).
 
 ### 🏦 Research & Funded Projects
 - **TÜBİTAK 2209-A Project Partner *(December 2023 - May 2025)***:  
